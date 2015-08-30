@@ -1,0 +1,16 @@
+/*
+ Theme Name:     Sixteen Child
+ Theme URI:      http://inkhive.com/product/sixteen
+ Description:    Sixteen Child Theme. Use this child theme to safely make modifications to the existing theme. Using a child theme ensures that you do not lose the modifications with theme updates.
+ Author:         InkHive
+ Author URI:     http://inkhive.com
+ Template:       sixteen
+ Version:        1.0
+*/
+
+@import url("../sixteen/style.css");
+
+/* = To add any Custom CSS to Overide existing properties, use the custom css option in Sixteen Settings > Layout > Custom CSS. Or use the "Edit CSS" option provided by Jetpack if you have it enabled.
+
+You can add new styles here for elements that have been created by you. 
+-------------------------------------------------------------- */
